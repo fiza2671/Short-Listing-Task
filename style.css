@@ -1,0 +1,49 @@
+body{
+    margin: 10px;
+    padding: auto;
+    background: url("bg.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+h1{
+    text-align: center;
+    color:brown;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-shadow: 0 2px #eec170, 0 5px #f2a65a;
+
+}
+table{
+    padding: 1px;
+    width: 100%;
+    border-spacing: 5px;
+}
+th{
+    background-color: #772f1a;
+    width: 50%;
+    padding: 20px;
+    font-size: 1.5em;
+    color: #eec170;
+    text-align: center;
+}
+td{
+    text-align: center;
+    background-color: #83432fe5;
+    color: antiquewhite;
+}
+.team{
+    font-weight: 600;
+    font-size: larger;
+}
+.quote{
+    font-size: 2em;
+    font-weight: 800;
+
+}
+.bold{
+    font-weight: bolder;
+    color: #eec170;
+    
+}
