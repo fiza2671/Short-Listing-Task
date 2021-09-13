@@ -51,3 +51,14 @@ td{
     color: #eec170;
     
 }
+.mission{
+    font-size:1em;
+    background-color: rgba(247, 193, 174, 0.801);
+    color: #772f1a;
+}
+.bold1{
+    font-size: 1.5em;
+    text-shadow: 0 2px #eec170, 0 5px #f2a65a;
+    font-weight:900; 
+    
+}
